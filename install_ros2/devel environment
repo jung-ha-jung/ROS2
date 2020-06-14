@@ -1,0 +1,11 @@
+
+Beyond compare 4 설치 : 
+https://www.scootersoftware.com/download.php
+https://gist.github.com/satish-setty/04e1058d3043f4d10e2d52feebe135e8
+
+Wireshark 설치 : 
+$sudo apt install wireshark
+
+rqt 설치 :
+https://ros-qtc-plugin.readthedocs.io/en/latest/_source/How-to-Install-Users.html
+
