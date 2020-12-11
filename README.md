@@ -16,5 +16,6 @@ PythonLaunchDescriptionSource([nav2_launch_file_dir, '/bringup_launch.py']),
 
 
 # Moveit
-- install : 
+- install : https://moveit.ros.org/install-moveit2/source/
+- build : colcon build --event-handlers desktop_notification- status- --cmake-args -DCMAKE_BUILD_TYPE=Release
 - example : ros2 launch run_move_group run_move_group.launch.py
