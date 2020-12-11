@@ -19,3 +19,8 @@ PythonLaunchDescriptionSource([nav2_launch_file_dir, '/bringup_launch.py']),
 - install : https://moveit.ros.org/install-moveit2/source/
 - build : colcon build --event-handlers desktop_notification- status- --cmake-args -DCMAKE_BUILD_TYPE=Release
 - example : ros2 launch run_move_group run_move_group.launch.py
+
+# 첨부 파일
+- 첨부 2. hyundai_project.zip : 카이스트
+- CoBotCommander.zip : 이인국책임
+- CoBotCommander2.zip : 이인국책임
